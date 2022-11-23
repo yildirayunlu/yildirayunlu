@@ -1,4 +1,4 @@
-## Hello 👋 <img align="right" src="https://komarev.com/ghpvc/?username=alcianerdurmaz&color=51c2d5">
+## Hello 👋 <img align="right" src="https://komarev.com/ghpvc/?username=yildirayunlu&color=51c2d5">
 
 I'm a Software Developer working in Izmir, Turkey.
 
