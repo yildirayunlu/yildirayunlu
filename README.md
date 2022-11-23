@@ -12,6 +12,6 @@ I'm a Software Developer working in Izmir, Turkey.
 ![GraphQL](https://img.shields.io/badge/-GraphQL-141a20?style=flat&logo=graphql&logoColor=E00097)&nbsp;
 
 ### 📫 &nbsp;Connect
-[![gmail](https://img.shields.io/badge/-yildirayyunlu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:yildirayunlu@gmail.com)
+[![gmail](https://img.shields.io/badge/-yildirayyunlu@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:yildirayyunlu@gmail.com)
 [![twitter](https://img.shields.io/badge/-yildirayunlu-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yildirayunlu)
 [![linkedin](https://img.shields.io/badge/-yildirayunlu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yildirayunlu)
